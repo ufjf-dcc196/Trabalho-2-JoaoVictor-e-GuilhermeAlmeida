@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Trabalho</string>
+    <string name="ano">Ano</string>
+    <string name="editora">Editora</string>
+    <string name="salvar">Salvar</string>
+    <string name="titulo">Titulo</string>
+    <string name="voltar">Voltar</string>
+    <string name="e_mail">E-mail</string>
+    <string name="nome">Nome</string>
+    <string name="salvar2">Salvar2</string>
+    <string name="voltar2">Voltar2</string>
+    <string name="cadastrar_livros">Cadastrar Livros</string>
+    <string name="cadastrar_participantes">Cadastrar Participantes</string>
+    <string name="cadastro_de_reserva">Cadastro de Reserva</string>
+    <string name="button">Button</string>
+    <string name="voltarListaLivros">VoltarListaLivros</string>
+    <string name="adicionarListaLivros">AdicionarListaLivros</string>
+    <string name="adicionar">adicionar</string>
+    <string name="listar_livros">Listar Livros</string>
+    <string name="reserva_de_livros">Reserva de Livros</string>
+    <string name="reservar">Reservar</string>
+    <string name="title_activity_dados_livro">DadosLivroActivity</string>
+    <string name="informa_es_das_reservas">Informações das Reservas</string>
+    <string name="ano.info">Ano:</string>
+    <string name="editora.info">Editora:</string>
+    <string name="informa_es_do_livro">Informações do Livro</string>
+    <string name="titulo.info">Titulo:</string>
+</resources>
